@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34e2b483.css",
+    "main.js": "/static/js/main.2fa01dae.js",
+    "static/media/sayandip3.png": "/static/media/sayandip3.602df386bda59420a6aa.png",
+    "static/media/SayanDipCVLatex2.pdf": "/static/media/SayanDipCVLatex2.5c753ff8012fb6e3c534.pdf",
+    "index.html": "/index.html",
+    "main.34e2b483.css.map": "/static/css/main.34e2b483.css.map",
+    "main.2fa01dae.js.map": "/static/js/main.2fa01dae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e2b483.css",
+    "static/js/main.2fa01dae.js"
+  ]
+}
