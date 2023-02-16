@@ -1,6 +1,6 @@
 # Visit my portfolio website
 
-https://sayandip2.netlify.app/
+https://sayandip.netlify.app/
 
 # Getting Started with Create React App
 
